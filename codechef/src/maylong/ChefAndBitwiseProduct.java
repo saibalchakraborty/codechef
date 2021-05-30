@@ -1,4 +1,4 @@
-package challenge.maylong;
+package maylong;
 
 import java.util.ArrayList;
 import java.util.List;

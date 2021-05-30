@@ -1,4 +1,4 @@
-package challenge.maylong;
+package maylong;
 
 import java.util.Arrays;
 import java.util.Scanner;

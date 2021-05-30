@@ -1,4 +1,4 @@
-package challenge.junelong;
+package junelong;
 
 import java.util.Scanner;
 

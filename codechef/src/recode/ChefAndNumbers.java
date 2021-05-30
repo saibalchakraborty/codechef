@@ -1,4 +1,4 @@
-package codechef.recode;
+package recode;
 
 import java.util.HashMap;
 import java.util.Map;
